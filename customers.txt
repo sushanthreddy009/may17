@@ -1,0 +1,2 @@
+cust1:ram
+cust2:sai
