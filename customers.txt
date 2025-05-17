@@ -1,2 +1,2 @@
-cust1: john
-cust2: sun
+cust1:ram
+cust2:sai
